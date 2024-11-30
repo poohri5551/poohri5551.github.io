@@ -5,4 +5,4 @@
 
 ![alt text](IMG_4427.jpeg)
 
-[USE CASE](usecase.md)
+[USE CASES](usecases.md)
