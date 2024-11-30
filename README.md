@@ -3,6 +3,6 @@
 - Poothripatn
   - Pooh
 
-![alt text](IMG_4474)
+![alt text](IMG_4474.jpeg)
 
 [AUTENTICATION](autentication)
