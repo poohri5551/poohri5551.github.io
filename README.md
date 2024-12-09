@@ -3,6 +3,6 @@
 - Poothripatn Smithbenjapol
   - Pooh
 
-![alt text](IMG_4427.jpeg)
+![alt text](pic/IMG_4427.jpeg)
 
 [USE CASES](usecases.md)
