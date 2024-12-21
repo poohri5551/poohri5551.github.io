@@ -1,3 +1,3 @@
-![ny](pic/finishcm.png)
+![ny](pic/finishcmc.png)
 
 [Main Page](README.md)
