@@ -8,3 +8,5 @@
 [USE CASES](usecases.md)
 
 [Christmas Card](christmas.md)
+
+[Integrity Definition](integrity.md)
