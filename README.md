@@ -10,3 +10,5 @@
 [Christmas Card](christmas.md)
 
 [Integrity Definition](integrity.md)
+
+[Security Control](securitycontrol.md)
