@@ -11,4 +11,4 @@
 
 [Integrity Definition](integrity.md)
 
-[Security Control](securitycontrol.md)
+[Security Control](security-control.md)
