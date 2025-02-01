@@ -12,3 +12,5 @@
 [Integrity Definition](integrity.md)
 
 [Security Control](security-control.md)
+
+[PAO Elections](pao-elections.md)
