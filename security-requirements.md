@@ -1,17 +1,21 @@
 # 2.1.6 Password Security
 
-<h1>**Description**</h1>
+<h1>Description</h1>
 
-Verify that password change functionality requires the user's 
+- Verify that password change functionality requires the user's 
 current and new password.
 
-### **Check in**
-![Image](pic/IMG_4922.jpeg)
-![Image](pic/IMG_4924.jpeg)
+<h1>ChatGPT</h1>
 
+- ตรวจสอบว่าฟังก์ชันการเปลี่ยนรหัสผ่านกำหนดให้ผู้ใช้ต้องป้อนทั้งรหัสผ่านปัจจุบันและรหัสผ่านใหม่
 
-### **สถานที่เลือกตั้ง**
-![Image](pic/IMG_4927.jpeg)
-> หน่วยเลือกตั้งที่ 19 เขตเลือกตั้งที่ 5 ตำบลบางปลา อำเภอบางพลี จังหวัดสมุทรปราการ สถานที่เลือกตั้ง : เต็นท์หน้าสวนสาธารณะ 2 หมู่บ้านชัยพฤกษ์ เทพารักษ์
+<h1>Gemini</h1>
+
+- ให้ตรวจสอบว่าระบบเปลี่ยนรหัสผ่าน บังคับ ให้ผู้ใช้ใส่ทั้งรหัสผ่านเก่าและรหัสผ่านใหม่ เพื่อความปลอดภัย
+
+<h1>My Self</h1>
+
+- ให้ตรวจสอบว่าถ้าผู้ใช้จะเปลี่ยนรหัสผ่าน ระบบจะต้องให้ผู้ใช้ใส่รหัสผ่านเดิมก่อน แล้วถึงจะตั้งรหัสผ่านใหม่ได้
+
 
 [Main Page](README.md)
