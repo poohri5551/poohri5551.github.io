@@ -14,3 +14,5 @@
 [Security Control](security-control.md)
 
 [PAO Elections](pao-elections.md)
+
+[Security Requirements](security-requirements.md)
