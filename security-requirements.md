@@ -1,6 +1,6 @@
 # 2.1.6 Password Security
 
-### **Description**
+<h1>**Description**</h1>
 
 Verify that password change functionality requires the user's 
 current and new password.
