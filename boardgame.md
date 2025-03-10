@@ -34,7 +34,7 @@
 [⬆️ ⬆️ ⬆️ Cilck เลย ⬆️ ⬆️ ⬆️](https://www.youtube.com/watch?v=jSjYxhDBHN0)
 ## สมาชิกภายในกลุ่ม
 
-1. [Hannarong Supapun](https://deldel-p.github.io)
+1. [Poothripatn Smithbenjapol](https://poohri5551.github.io)
 
 2. [Krit Chanthim](https://6530250000.github.io)
 
@@ -42,7 +42,7 @@
 
 4. [Phurin Phuangmadue](https://teamgamer11.github.io)
 
-5. [Poothripatn Smithbenjapol](https://poohri5551.github.io)
+5. [Hannarong Supapun](https://deldel-p.github.io)
 
 6. [Punyavee Somboonranee](https://punyavee0.github.io)
 
